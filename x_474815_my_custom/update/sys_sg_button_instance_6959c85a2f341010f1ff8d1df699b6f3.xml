@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (My Custom App Table)">ed59c85a2f341010f1ff8d1df699b6f0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (My Custom App Table)</name>
+        <order/>
+        <parent>6959841a2f341010f1ff8d1df699b6e9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 14:23:49</sys_created_on>
+        <sys_id>6959c85a2f341010f1ff8d1df699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (My Custom App Table)</sys_name>
+        <sys_package display_value="My Custom App" source="x_474815_my_custom">641884de2ff01010f1ff8d1df699b655</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">641884de2ff01010f1ff8d1df699b655</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6959c85a2f341010f1ff8d1df699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 14:23:49</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6959c85a2f341010f1ff8d1df699b6f3"/>
+</record_update>

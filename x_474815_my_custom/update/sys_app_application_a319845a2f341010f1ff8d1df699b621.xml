@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Example app</description>
+        <device_type>browser</device_type>
+        <hint>Example app</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 14:22:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a319845a2f341010f1ff8d1df699b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Custom App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Custom App" source="x_474815_my_custom">641884de2ff01010f1ff8d1df699b655</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">641884de2ff01010f1ff8d1df699b655</sys_scope>
+        <sys_update_name>sys_app_application_a319845a2f341010f1ff8d1df699b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-17 14:22:52</sys_updated_on>
+        <title>My Custom App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

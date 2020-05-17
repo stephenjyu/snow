@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="my_string_field" label="My string field" language="en" table="x_474815_my_custom_my_custom_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>my_string_field</element>
+            <help/>
+            <hint/>
+            <label>My string field</label>
+            <language>en</language>
+            <name>x_474815_my_custom_my_custom_app_table</name>
+            <plural>My string fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-17 14:21:52</sys_created_on>
+            <sys_id>cde8c05a2f341010f1ff8d1df699b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My string field</sys_name>
+            <sys_package display_value="My Custom App" source="x_474815_my_custom">641884de2ff01010f1ff8d1df699b655</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">641884de2ff01010f1ff8d1df699b655</sys_scope>
+            <sys_update_name>sys_documentation_x_474815_my_custom_my_custom_app_table_my_string_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-17 14:21:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
